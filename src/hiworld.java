@@ -3,5 +3,6 @@ public class hiworld {
         System.out.println("hi Rebeccazheng!");
         System.out.println("hi chenmingcong!");
         System.out.println("111");
+        System.out.println("222");
     }
 }
